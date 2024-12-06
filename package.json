@@ -1,0 +1,13 @@
+{
+  "name": "spherica-operations-system",
+  "version": "1.0.0",
+  "description": "Spherica Operations System with Supabase Authentication",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.3",
+    "http-server": "^14.1.1"
+  }
+}
